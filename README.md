@@ -1,6 +1,6 @@
 # gofuel
 
-An attempt at building a Golang powered Fuel tracking system for motorists. Or anybody else really.
+An attempt at building a Golang powered Fuel tracking system for me. Or anybody else really.
 
 ## End points
 
